@@ -5,7 +5,7 @@
 
 #.env
 # MongoDB Connection String - Provide your mongo details here
-MONGO_URI=mongodb+srv://<username>:<password>@cluster0.mongodb.net/questionnaire?retryWrites=true&w=majority
+MONGO_URI=mongodb+srv://<username>:<password>@cluster0.mongodb.net/questionnaireDB?retryWrites=true&w=majority
 
 # Server Port
 PORT=5000
